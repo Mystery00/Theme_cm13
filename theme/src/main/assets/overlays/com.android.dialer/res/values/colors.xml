@@ -2,7 +2,6 @@
 <resources>
 
 
-
     <!-- This is a theme created with great care and I feel very proud,
     please do not use the element of this theme without the consent of Victor Burgoa
     ( victorburgoadeveloper@gmail.com )-->
@@ -13,7 +12,7 @@
 
     <color name="dialer_theme_color">#8bc348</color>
     <color name="dialer_theme_color_dark">#68a532</color>
-	<color name="tab_ripple_color">#20ffffff</color>
+    <color name="tab_ripple_color">#20ffffff</color>
     <color name="tab_accent_color">#ffffff</color>
     <color name="dialer_dialpad_touch_tint">#ffc436</color>
     <color name="background_dialpad">#ffffff</color>
