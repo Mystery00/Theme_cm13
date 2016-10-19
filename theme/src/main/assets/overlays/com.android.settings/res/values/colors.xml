@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+
+    <!--Pink-->
+
+    <color name="theme_primary">#ff3f52b6</color>
+    <color name="theme_primary_dark">#303f9f</color>
+    <color name="theme_accent">#5066d9</color>    <!--color texto en botones dialogo-->
+    <color name="switch_accent_color">#ffffffff</color>
+
+
+
+    <!--Blue-->
+
+
+    <!--
+        <color name="theme_primary">#2196F3</color>
+        <color name="theme_primary_dark">#1976D2</color>
+        <color name="theme_accent">#42A5F5</color>
+        <color name="theme_dash_icons">#11cfd3</color>
+    -->
+
+    <!--Green-->
+
+<!--
+    <color name="theme_primary">#8BC34A</color>
+    <color name="theme_primary_dark">#689F38</color>
+    <color name="theme_accent">#9CCC65</color>
+    <color name="theme_dash_icons">#11cfd3</color>
+-->
+
+    <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
+    <color name="dashboard_background_color">@drawable/dashboard_background</color>
+
+
+
+    <color name="switchbar_background_color">#ff3f52b6</color>
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+</resources>

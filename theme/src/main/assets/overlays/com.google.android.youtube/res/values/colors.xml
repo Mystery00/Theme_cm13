@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#ec3737</color>
+    <color name="color_secondary">#cd2525</color>
+
+
+    <color name="theme_search_color_primary">#fafafa</color>
+    <color name="theme_search_color_primary_dark">#bdbdbd</color>
+
+
+
+
+
+    <!-- Enough decompile this app! Try to be original and not just copied the ideas of this theme-->
+
+
+    <!--  divisor home  -->
+
+    <color name="feed_item_separator_color">#ffffffff</color>
+    <color name="card_separator">#ffffffff</color>
+    <color name="light_grey">#ffffffff</color>
+    <color name="upload_activity_separator_color">#ffffffff</color>
+    <color name="expand_button_separator_color">#ffffffff</color>
+    <color name="line_separator">#ffffffff</color>
+    <color name="line_separator_dark">#ffffffff</color>
+    <color name="alignment_marker_color">#ffffffff</color>
+    <color name="gallery_thumb_zero_state_grid_divider_color">#ffffffff</color>
+    <color name="share_panel_divider_color">#ffffffff</color>
+    <color name="quantum_black_divider">#ffffffff</color>
+    <color name="quantum_white_divider">#ffffffff</color>
+    <color name="gallery_thumb_background">#ffffffff</color>
+
+
+
+    <color name="playlist_header_color_primary_dark">#b0bec5</color> <!-- color barra de estado dark playlist-->
+    <color name="playlist_header_color_primary">#cfd8dc</color> <!-- color de barra de estado en playlist -->
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+    <color name="theme_main_color_accent">#ec3737</color>
+
+    <color name="help_button_view">#ffffffff</color>
+    <color name="entry_hint_color">#ffffffff</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <color name="theme_main_actionbar_controls_color">#ffffffff</color>
+    <color name="theme_main_tab_text_color_normal">#B8FFFFFF</color>
+    <color name="theme_main_color_primary">#ec3737</color>
+    <color name="theme_main_color_primary_dark">#d52d2d</color>
+    <color name="ripple_material_dark">#35000000</color>
+    <color name="ripple_material_light">#35000000</color>
+    <color name="snackbar_action_button_ripple">#35000000</color>
+    <!-- Please do not copy, this is a Work of Victor Burgoa -->
+
+
+</resources>

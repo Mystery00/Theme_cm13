@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gf_foreground_content">#ffffffff</color>
+    <color name="handwriting_pad_bg">#ffffffff</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="quantum_greywhite1000">#ffffffff</color>
+    <color name="quantum_white_100">#ffffffff</color>
+    <color name="quantum_white_text">#ffffffff</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="tooltip_text">#ffffffff</color>
+    <color name="voice_button_icon_active">#ffffffff</color>
+    <color name="primary_text">#ff0277bd</color>
+
+    <color name="candidate_strip_divider_color">#ffffffff</color>
+    <color name="card_divider">#ffffffff</color>
+    <color name="divider_grey">#ffffffff</color>
+    <color name="gtr_candidate_strip_divider">#ffffffff</color>
+    <color name="offline_activity_list_divider_grey">#ffffffff</color>
+    <color name="quantum_black_divider">#ffffffff</color>
+    <color name="quantum_white_divider">#ffffffff</color>
+    <color name="design_fab_shadow_end_color">#ffffffff</color>
+    <color name="design_fab_shadow_mid_color">#ffffffff</color>
+    <color name="design_fab_shadow_start_color">#ffffffff</color>
+    <color name="gf_shadow">#ffffffff</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <color name="primary_blue">#4fc3f7</color>
+    <color name="accent_material_light">#f57c00</color>
+    <color name="primary_blue_dark">#039be5</color>
+    <color name="background_material_light">#ffeeeeee</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+    <color name="voice_button_icon_tts_loading">#ff929292</color>
+    <color name="card_wl_download">#ff929292</color>
+    <color name="primary_blue_500_90alpha">#ff929292</color>
+    <color name="quantum_googblue500">#ff929292</color>
+    <color name="voice_button_border_tts_active1">#ff929292</color>
+
+
+    <color name="result_background">#4fc3f7</color>
+    <color name="suggest_title">#fffb8c00</color>
+
+    <color name="activity_background">#ffeeeeee</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+    <color name="nav_drawer_header_bg">#ffffffff</color>
+
+</resources>

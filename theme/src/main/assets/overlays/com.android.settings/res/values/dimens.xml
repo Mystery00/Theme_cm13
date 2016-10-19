@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+    <dimen name="dashboard_category_elevation">4dp</dimen>
+    <dimen name="actionbar_subsettings_contentInsetStart">28dp</dimen>
+
+    <dimen name="dashboard_category_title_height">50dp</dimen>
+
+    <!-- Dashboard category padding start / end -->
+    <dimen name="dashboard_category_padding_start">15dp</dimen>
+    <dimen name="dashboard_category_padding_end">15dp</dimen>
+
+    <dimen name="actionbar_contentInsetStart">17dp</dimen>   <!-- TEXTO SETTING  -->
+
+</resources>
