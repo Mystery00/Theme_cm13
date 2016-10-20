@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+
+
+
+
+
+    <!-- Please do not copy, this is a work of Victor Burgoa -->
+
+
+
+
+
+    <style name="Theme.Material" parent="@*android:style/Theme.Material">
+        <item name="android:navigationBarColor">?*android:colorPrimaryDark</item>
+        <item name="android:statusBarColor">?*android:colorPrimaryDark</item>
+    </style>
+
+    <style name="Widget.Material.CompoundButton.Switch" parent="@*android:style/Widget.Material.CompoundButton">
+        <item name="android:background">?*android:selectableItemBackgroundBorderless</item>
+        <item name="android:textOn">@*android:string/capital_on</item>
+        <item name="android:textOff">@*android:string/capital_off</item>
+        <item name="android:thumb">@*android:drawable/switch_thumb_material_anim</item>
+        <item name="android:switchTextAppearance">@*android:style/TextAppearance.Material.Widget.Switch</item>
+        <item name="android:track">@*android:drawable/switch_track_material</item>
+        <item name="android:switchMinWidth">41dip</item>
+        <item name="android:elevation">10dip</item>
+        <item name="android:showText">false</item>
+    </style>
+    <style name="Theme.Material.Light" parent="@*android:style/Theme.Material.Light">
+        <item name="android:navigationBarColor">?*android:colorPrimaryDark</item>
+        <item name="android:statusBarColor">?*android:colorPrimaryDark</item>
+    </style>
+    <style name="TextAppearance.Material.Notification" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">#ff6c6c6c</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Time" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">#ff6c6c6c</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Title" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">#ff2b2b2b</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Emphasis" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">#ff2b2b2b</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Info" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">#ff6c6c6c</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Line2" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">#ff6c6c6c</item>
+    </style>
+</resources>
+
+

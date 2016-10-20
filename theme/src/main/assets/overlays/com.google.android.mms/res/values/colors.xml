@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Mms.apk's Colors-->
+<!--LAST REVISED ON: 9:31PM EST 10/02/2015-->
+
+<resources>
+    <color name="letter_tile_grey_color">#ff565656</color>
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+
+    <color name="actionbar_background_color">#ffff9800</color>
+    <color name="actionbar_background_color_dark">#fff88000</color>
+
+    <color name="mms_theme_color">#ffff9800</color>
+    <color name="mms_theme_color_dark">#fff88000</color>
+    <color name="mms_theme_color_accent">#ff1565c0</color>
+
+    <color name="actionbar_text">#ffffffff</color>
+
+
+    <color name="holo_list_background_color">#ffffffff</color>
+    <color name="selected_list_item_bg">#ffffffff</color>
+    <color name="dividers">#ffffffff</color>
+    <color name="compose_message_divider_color">#ffffffff</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+</resources>
