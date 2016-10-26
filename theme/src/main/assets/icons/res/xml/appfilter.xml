@@ -258,7 +258,7 @@
           drawable="browser"/>
     <item component="ComponentInfo{com.android.browser/com.opera.Opera}" drawable="browser"/>
 
-    <!-- Calculator -->
+    <!-- Calculator  计算器
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}"
           drawable="calculator"/>
     <item
@@ -281,7 +281,7 @@
           drawable="calculator"/>
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}"
           drawable="calculator"/>
-
+	-->
     <!-- Calendar -->
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}"
               prefix="calendar_"/>
@@ -392,8 +392,10 @@
           drawable="camera"/>
     <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
           drawable="camera"/>
+		  <!--Google相机
     <item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}"
           drawable="camera"/>
+		  -->
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}"
           drawable="camera"/>
     <item
@@ -610,7 +612,7 @@
         drawable="contacts"/>
     <item
         component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="contacts"/>
+        drawable="contacts4"/>
     <item
         component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}"
         drawable="contacts"/>
@@ -915,13 +917,14 @@
     <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}"
           drawable="gel"/>
 
-    <!-- Google Maps -->
+    <!-- Google Maps Google 地图
     <item
         component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
         drawable="gmaps"/>
     <item
         component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}"
         drawable="gmapsplaces"/>
+		-->
 
     <!-- Google Photo -->
     <item
@@ -1028,7 +1031,7 @@
     <item component="ComponentInfo{com.jb.gosms/com.jb.gosms.ui.mainscreen.GoSmsMainActivity}"
           drawable="gosms"/>
 
-    <!-- Greenify -->
+    <!-- Greenify 绿色守护
     <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}"
           drawable="greenify"/>
     <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.PilotActivity}"
@@ -1036,7 +1039,7 @@
     <item
         component="ComponentInfo{com.oasisfeng.greenify.pro/com.oasisfeng.greenify.pro.PilotActivity}"
         drawable="greenify"/>
-
+		-->
     <!-- Gravitybox -->
     <item
         component="ComponentInfo{com.ceco.kitkat.gravitybox/com.ceco.kitkat.gravitybox.GravityBoxSettings}"
@@ -1386,7 +1389,7 @@
           drawable="phone"/>
     <item
         component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
-        drawable="phone"/>
+        drawable="phone2"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}"
         drawable="phone"/>
@@ -2450,9 +2453,11 @@
           drawable="hotspost"/>
     <item component="ComponentInfo{com.htc.WifiRouter/com.htc.WifiRouter.Intro}"
           drawable="hotspost"/>
+		  <!--Google Docs
     <item
         component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
         drawable="gdocs"/>
+		-->
     <item
         component="ComponentInfo{com.ikorolkov.poweramp.skins.flat.vintage/com.maxmpz.poweramp.skinlib.RedirActivity}"
         drawable="poweramp"/>
@@ -3629,8 +3634,10 @@
     <item
         component="ComponentInfo{com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity}"
         drawable="blackplayer_ex"/>
+		<!--Bluemail
     <item component="ComponentInfo{me.bluemail.mail/com.trtf.blue.activity.Accounts}"
           drawable="bluemail"/>
+		  -->
     <item component="ComponentInfo{org.zooper.zwpro/org.zooper.zwlib.Launcher}"
           drawable="zooper_pro"/>
     <item component="ComponentInfo{com.dictionary/com.dictionary.Splash}" drawable="dictionary"/>
@@ -3717,9 +3724,11 @@
     <item
         component="ComponentInfo{com.google.android.inputmethod.korean/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}"
         drawable="google_korean_input"/>
+		<!--谷歌拼音输入法
     <item
         component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}"
         drawable="google_pinyin_input"/>
+		-->
     <item
         component="ComponentInfo{com.google.android.apps.inputmethod.zhuyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}"
         drawable="google_zhuyin_input"/>
@@ -4271,9 +4280,11 @@
         drawable="candid"/>
     <item component="ComponentInfo{com.mint/com.mint.core.overview.RouterActivity}"
           drawable="mint"/>
+		  <!--Android N-ify 启动图标
     <item
         component="ComponentInfo{tk.wasdennnoch.androidn_ify/tk.wasdennnoch.androidn_ify.SettingsAlias}"
         drawable="android_nify"/>
+		-->
     <item component="ComponentInfo{com.cimbmalaysia/com.cimbmalaysia.Default}"
           drawable="cimb_clicks"/>
     <item component="ComponentInfo{com.airasia.mobile/com.airasia.mobile.SplashScreenActivity}"

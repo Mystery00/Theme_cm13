@@ -8,8 +8,8 @@ android {
         applicationId "org.cyanogenmod.theme.mystery0"
         minSdkVersion 23
         targetSdkVersion 24
-        versionCode 1024
-        versionName "1.1.0"
+        versionCode 1048
+        versionName "1.2.1"
     }
     buildTypes {
         release {
